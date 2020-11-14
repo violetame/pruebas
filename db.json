@@ -1,0 +1,58 @@
+{
+  "takeaway": [
+    {
+      "id": 1,
+      "nombre": "Restaurante Comic",
+      "descripcion": "Local en una de las zonas mas concurridas, con amplia terraza. Menu del dia y menu especial fin de semana. Bocadillos y hamburguesas para llevar o consumir en el local ",
+	  "direccion": "calle 1, 89",
+	  "telefono" : "4890909",
+	  "tipo": "bocadillos, hamburguesas, menu del dia",
+      "valoracion": 8
+    },
+    {
+      "id": 2,
+      "nombre": "Duplex",
+      "descripcion": "Pequeño local en una de las calles peatonales del centro. Menu del dia y menus para grupos",
+	  "direccion": "calle 1, 89",
+	  "telefono" : "4890909",
+	  "tipo": "bocadillos, hamburguesas, menu del dia",
+      "valoracion": 8
+    },
+    {
+      "id": 3,
+      "nombre": "Harleys",
+      "descripcion": "Hamburguesas y raciones en una de las zonas de mas ambiente de Sestao",
+	  "direccion": "calle 1, 89",
+	  "telefono" : "4890909",
+	  "tipo": "bocadillos, hamburguesas, menu del dia",
+      "valoracion": 8
+    },
+    {
+      "id": 4,
+      "nombre": "Bost",
+      "descripcion": "Nueva gerencia. Bocadillos, hamburguesas y raciones. Tambien menus para grupos",
+	  "direccion": "calle 1, 89",
+	  "telefono" : "4890909",
+	  "tipo": "bocadillos, hamburguesas, menu del dia",
+      "valoracion": 8
+    },
+    {
+      "id": 5,
+      "nombre": "Ninfas",
+      "descripcion": "Pintxos y comida rapida con un toque exotico",
+	  "direccion": "calle 1, 89",
+	  "telefono" : "4890909",
+	  "tipo": "bocadillos, hamburguesas, menu del dia",
+      "valoracion": 8
+    },
+    {
+      "id": 6,
+      "nombre": "Casa Paco",
+      "descripcion": "Bocadillos y raciones en una zona tranquila",
+	  "direccion": "calle 1, 89",
+	  "telefono" : "4890909",
+	  "tipo": "bocadillos, hamburguesas, menu del dia",
+      "valoracion": 8
+    }
+	]
+}
