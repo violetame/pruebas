@@ -54,5 +54,14 @@
 	  "tipo": "bocadillos, hamburguesas, menu del dia",
       "valoracion": 8
     }
+    {
+      "id": 7,
+      "nombre": "Thai",
+      "descripcion": "Comida thailandesa tradicional",
+	  "direccion": "calle 1, 89",
+	  "telefono" : "4890909",
+	  "tipo": "comida internacional",
+      "valoracion": 8
+    }
 	]
 }
