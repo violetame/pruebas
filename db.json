@@ -4,26 +4,26 @@
       "id": 1,
       "nombre": "Restaurante Comic",
       "descripcion": "Local en una de las zonas mas concurridas, con amplia terraza. Menu del dia y menu especial fin de semana. Bocadillos y hamburguesas para llevar o consumir en el local ",
-	  "direccion": "calle 1, 89",
-	  "telefono" : "4890909",
-	  "tipo": "bocadillos, hamburguesas, menu del dia",
+	  "direccion": "Calle Vicente Blasco Ibañez, 20, 48910 Sestao",
+	  "telefono" : "946 55 77 77",
+	  "tipo": "Especialistas en desayunos, menu del día, menu fin de semana; hamburguesas, platos combinados, bocadillos y sandwiches",
       "valoracion": 8
     },
     {
       "id": 2,
       "nombre": "Duplex",
-      "descripcion": "Pequeño local en una de las calles peatonales del centro. Menu del dia y menus para grupos",
-	  "direccion": "calle 1, 89",
-	  "telefono" : "4890909",
-	  "tipo": "bocadillos, hamburguesas, menu del dia",
-      "valoracion": 8
+      "descripcion": "Pequeño local en una de las calles peatonales del centro, magnifica barra de pintxos y ambiente acogedor . Menu del dia y menus para grupos",
+	  "direccion": "Iparraguirre Kalea, 1, 48910 Sestao",
+	  "telefono" : "944 36 23 62",
+	  "tipo": "Comidas, Desayuno, Cenas. Menu del dia",
+      "valoracion": 6
     },
     {
       "id": 3,
       "nombre": "Harleys",
-      "descripcion": "Hamburguesas y raciones en una de las zonas de mas ambiente de Sestao",
-	  "direccion": "calle 1, 89",
-	  "telefono" : "4890909",
+      "descripcion": "Taberna de tipo irlandés, variedad de cervezas, comida texmex, pintxos. Pantalla gigante",
+	  "direccion": "Vicente Blasco Ibañez Kalea, 20, 48910 Sestao",
+	  "telefono" : "944 95 45 00",
 	  "tipo": "bocadillos, hamburguesas, menu del dia",
       "valoracion": 8
     },
@@ -31,35 +31,35 @@
       "id": 4,
       "nombre": "Bost",
       "descripcion": "Nueva gerencia. Bocadillos, hamburguesas y raciones. Tambien menus para grupos",
-	  "direccion": "calle 1, 89",
-	  "telefono" : "4890909",
-	  "tipo": "bocadillos, hamburguesas, menu del dia",
-      "valoracion": 8
+	  "direccion": "Vicente Blasco Ibañez Kalea, 22 48910 Sestao",
+	  "telefono" : "946 02 60 17",
+	  "tipo": "Bocadillos, hamburguesas,amplia barra de pintxos.Menus para grupos",
+      "valoracion": 6
     },
     {
       "id": 5,
       "nombre": "Ninfas",
       "descripcion": "Pintxos y comida rapida con un toque exotico",
-	  "direccion": "calle 1, 89",
-	  "telefono" : "4890909",
-	  "tipo": "bocadillos, hamburguesas, menu del dia",
-      "valoracion": 8
+	  "direccion": "Calle Vicente Blasco Ibañez, 30, 48910 Sestao",
+	  "telefono" : "946 85 26 52",
+	  "tipo": "Bocadillos, hamburguesas, pedrata, durum y platos de comida tradicional arabe por encargo",
+      "valoracion": 7
     },
     {
       "id": 6,
       "nombre": "Casa Paco",
       "descripcion": "Bocadillos y raciones en una zona tranquila",
-	  "direccion": "calle 1, 89",
-	  "telefono" : "4890909",
-	  "tipo": "bocadillos, hamburguesas, menu del dia",
-      "valoracion": 8
+	  "direccion": "Alberto Arrue Kalea, 8, 48910 Sestao",
+	  "telefono" : "946 52 24 28",
+	  "tipo": "bocadillos, hamburguesas, raciones, platos combinados",
+      "valoracion": 6
     },
     {
       "id": 7,
-      "nombre": "Thai",
+      "nombre": "Thai Food",
       "descripcion": "Comida thailandesa tradicional",
-	  "direccion": "calle 1, 89",
-	  "telefono" : "4890909",
+	  "direccion": "Iparaguirre num 2, esquina con Buenavista 48910 Sestao",
+	  "telefono" : "657 08 78 03",
 	  "tipo": "comida internacional",
       "valoracion": 8
     }
